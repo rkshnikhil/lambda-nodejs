@@ -39,7 +39,6 @@ var flightDelayedEvent = {
     }
  }
 
-
 var idArray = ["1503503856363974", "1307627679338414"]
 
 exports.handler = (event, context, callback) => {
